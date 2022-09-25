@@ -2,8 +2,7 @@
 
 body {
     font-family: 'Times New Roman', Times, serif;
-  font-size: 1.55rem;
-  font-weight: 100px;
+  font-size: 50px;
   background-color: #ffffff;
   width: 90%;
   margin: auto;
@@ -22,6 +21,11 @@ hr {
     color:#0af7f7;
     height: 10px;
     border-width: 0;
+}
+
+h1 {
+    color: #000000;
+    font-size: 50px;
 }
 
  h2 {
@@ -69,7 +73,7 @@ img {
 
 h4 {
     background-color: #dd9898;
-    width: 15%;
+    width: 25%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
